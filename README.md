@@ -3,7 +3,7 @@
 Repositories used:
 * https://github.com/Yelp/mrjob : Code for managing a hadoop cluster.
 * https://github.com/s3tools/s3cmd : command line tools for working with s3
-* 
+* https://github.com/yoavfreund/UCSD_BigData : the repository for the students.
 
 Steps for starting a hadoop cluster: 
 1. create a flow using create_flows.py
