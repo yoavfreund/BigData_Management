@@ -1,0 +1,60 @@
+From: Kit Borodenko <kitb@amazon.com>
+Subject: AWS In Education Machine Learning Grant- Congratulations!
+Date: February 28, 2014 at 6:52:16 PM PST
+To: "yfreund@ucsd.edu" <yfreund@ucsd.edu>
+
+AWS in Education Research Grant Award
+ 
+Congratulations! 
+ 
+You have been selected to receive AWS in Education Machine Learning Research grant for $10,000USD in AWS credit.
+ 
+How to redeem and view AWS credits – Sign into your account. In the upper right corner, click on the arrow next to your name and go to Billing & Cost Management. Next, in your Dashboard menu on the left, click on Credits; once you are there, you will be able to see all the relevant info about your AWS credit, such as the remaining balance, applicable products and services, and expiration date.
+ 
+AWS Credit Code – PCS7N9BJJRPC8C
+In the amount of – $10,000.0USD
+ 
+Credits may not be used for Reserved Instance fees or Mechanical Turk. 
+ 
+For billing purposes, we treat all the accounts on a Consolidated Bill as if they're one account. This applies to your grants as well. If your account is currently linked, or is planned to link to a Consolidated Bill, your credits will be utilized at the payer level. To avoid sharing your grant, if you are currently linked to a Consolidated Bill, please de-link and wait for the first of the following month to apply your code. If you are planning to join a payer account please wait till your promotional credits are utilized. 
+Please acknowledge the grant in your papers, course website, and/or conference proceedings; you may simply cite your work was supported by AWS in Education Grant award.
+ 
+ 
+Sincerely,
+ 
+AWS in Education Grants team
+ 
+ 
+…………………………………………………………………………………………
+Useful Links and Info!
+ 
+Learn about AWS Identity and Access Management (IAM). It enables you to securely control access to AWS services and resources for your users. Using IAM, you can create and manage AWS users and groups and use permissions to allow and deny their access to AWS resources. First-time users should visit the IAM Best Practices section of our Using IAM guide. To get started using IAM, sign in to the AWS Management Console.
+ 
+Set up Billing Alerts to help monitor the charges on their AWS bill! We highly recommend you remind students to turn off any instances after each class/session – as this can quickly diminish the credits. Please note that upon reaching your credit amount, your billing will automatically switch to the credit card on file and the account will be charged immediately upon going over the credit amount.
+ 
+Use Amazon CloudWatch! This helps customers detect and shut down Amazon EC2 instances that have gone idle or underutilized. This feature allows customers to stop or terminate an EC2 instance automatically when utilization drops below a threshold they set, simply by creating a CloudWatch alarm.
+ 
+Read about ‘Setting Up Multiuser Environments (for Classroom Training and Research)’. This whitepaper provides an overview of how to create and manage multiuser environments in the AWS cloud so that professors and researchers can leverage AWS for student labs, training applications, individual IT environments, and cloud computing courses.
+ 
+AWS Cloud Computing Whitepapers is a section featuring a comprehensive list of technical AWS whitepapers, covering topics such as architecture, security and economics. These whitepapers have been authored by the AWS Team, independent analysts or the AWS Community (Customers or Partners).
+ 
+After you’re done using AWS service after testing using our free tier or when a university course has finished, it’s important to be sure that you won’t get any unexpected charges later on. Here’s a simple guide to making sure your account is safely idle until you need it again.
+ 
+Regions – you can launch services in any one of our regions, but the Management Console can only show you one region at a time. To be completely sure you’ve closed everything down, follow these instructions in any region you’ve used or might have used. The links in this document go to the US East (North Virginia) region, but you can use the menu in the top right of the console to change to another region whenever you want.
+ 
+Elastic Beanstalk is a service that makes sure you have all the resources you need running. If you’ve got an environment running under Elastic Beanstalk, it will re-launch any other services you start – that’s how it makes sure everything stays up and running for you. Before you terminate any EC2 instances, have a look and see if you’ve got a beanstalk, and terminate that too.
+ 
+Like Elastic Beanstalk, Load Balancers keep a minimum number of EC2 instances running, so if you terminate the last instance under a load balancer a new one will be launched.
+ 
+After you’ve dealt with the previous 2 items, you’re good to start terminating EC2 instances. Remember, if you terminate an instance, you delete it for good. If you stop it, you can start it again later but you may still be charged for storage.
+ 
+Elastic Block Storage - most EC2 instances will delete their EBS volumes when they are terminated, but it is possible to set an instance up to keep the volume and the data inside of it. Check under EBS and if you’re sure you don’t need the data anymore, delete those volumes too.
+ 
+Any Elastic IP Addresses or EIPs attached to an instance when it’s terminated will be unattached, but still allocated to you. If you don’t need that specific IP address anymore, release it so someone else can use it.
+ 
+Everything else! The services above interact with each other in very specific ways, but the rest of AWS’ range are much more individual, so all you need to do it check through for anything else you may have launched. The most common services are RDS and S3, but anything you had a look at might need to be closed down again.
+ 
+
+
+ 
+
